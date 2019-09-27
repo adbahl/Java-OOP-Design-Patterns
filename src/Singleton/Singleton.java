@@ -1,6 +1,8 @@
+package Singleton;
+
 /**
  * Singleton Class created.
- * This restricts the instantiation of a class to one single instance.
+ * No other instance of this class can be created.
  */
 public class Singleton {
 

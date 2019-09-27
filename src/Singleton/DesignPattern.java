@@ -1,3 +1,5 @@
+package Singleton;
+
 /**
  * Created by arvin on 9/16/2019.
  */
