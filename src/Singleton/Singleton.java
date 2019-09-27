@@ -3,6 +3,7 @@ package Singleton;
 /**
  * Singleton Class created.
  * No other instance of this class can be created.
+ * Created by Arvind Bahl
  */
 public class Singleton {
 

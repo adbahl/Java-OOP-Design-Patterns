@@ -1,7 +1,8 @@
 package Singleton;
 
 /**
- * Created by arvin on 9/16/2019.
+ * DesignPattern.java: Main method testing the code.
+ * Created by Arvind Bahl
  */
 public class DesignPattern {
 
